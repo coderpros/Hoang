@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hoang.FtpRename", "Hoang.FtpRename\Hoang.FtpRename.vbproj", "{89023B15-73E0-4E9B-B428-633CA4CC5D80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89023B15-73E0-4E9B-B428-633CA4CC5D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89023B15-73E0-4E9B-B428-633CA4CC5D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89023B15-73E0-4E9B-B428-633CA4CC5D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89023B15-73E0-4E9B-B428-633CA4CC5D80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0A7D30-7E88-47E2-B536-301809EC603C}
+	EndGlobalSection
+EndGlobal
